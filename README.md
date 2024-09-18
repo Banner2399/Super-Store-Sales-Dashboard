@@ -2,12 +2,14 @@
 
 Welcome to the Super Sales Store Dashboard project! This Power BI dashboard is built to provide an intuitive, visually engaging overview of key business metrics for a sales store. It also includes a 15-day sales forecast to help store owners and managers plan ahead with data-driven insights.
 
-What Does This Dashboard Do?
+#What Does This Dashboard Do?
+
 This dashboard offers an easy-to-understand view of your store's performance, making it simple to track sales trends, spot top-performing products, and understand your customer base. With interactive visuals, you can explore different aspects of your business at a glance. The dashboard doesn’t just focus on past performance — it also predicts the future by forecasting sales for the next 15 days using time series analysis.
 
-Key Features:
-Sales Overview: Track your store’s total sales, profits, and orders over different time periods.
-Top Products & Categories: Quickly see which products and categories are driving your business.
+#Key Features:
+
+*Sales Overview: Track your store’s total sales, profits, and orders over different time periods.
+*Top Products & Categories: Quickly see which products and categories are driving your business.
 Customer Insights: Learn about your customers' demographics like age, location, and purchasing behavior.
 Sales Trends: Monitor daily, weekly, and monthly trends to understand overall performance.
 15-Day Sales Forecasting: Get a reliable projection of your sales for the upcoming 15 days to help with planning and inventory management.
