@@ -1,4 +1,4 @@
-# Super Sales Store Dashboard with 15-Day Sales Forecasting
+# Superstore Sales Dashboard with 15-Day Sales Forecasting
 
 This project features an interactive Power BI dashboard designed to help store managers and stakeholders track sales performance and forecast future sales for the next 15 days. It’s easy to use and provides clear, actionable insights to make better business decisions.
 
